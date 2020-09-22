@@ -1,4 +1,4 @@
-# Whatsapp_through_python
+
 This is a simple usage of pywhatkit library in which one can send a message to any number or schedule it starting from 2 mins to anytime within 12 PM at night. 
 for sending whatsapp messages through python follow these steps and instructions before running the above python file<br>
 Step 1: install the 'pywhatkit' library using terminal.<br>
