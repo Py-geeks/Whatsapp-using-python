@@ -8,6 +8,6 @@ pywhatkit.sendwhatmsg("number","message",h,m)
 #the last parameter is the minute component.
 #follow the steps given in the readme file to accomplish the task.
 
-Click in the link below for the code:
+
   
   
