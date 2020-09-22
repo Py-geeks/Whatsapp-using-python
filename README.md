@@ -12,3 +12,7 @@ Ins 3: do not use 0 before hrs or mins <br>
       ex: if i want to send msg at 05:05AM i would type 5,5 rather than 05,05<br>
 Ins 4: run the code atleast 2 min prior to the desired time of sending message.<br>
       ex: if i want my message to be sent at 3:45PM i would give time as 15,45 and run the code atleast before or at 3:43PM<br>
+
+Click in the link below for the code:
+
+<a herf="https://github.com/Py-geeks/Whatsapp-using-python">Whatsapp with python</a>
